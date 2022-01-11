@@ -1145,7 +1145,7 @@
 			<property name="Material" value="PetAnimalMaterials"/>
 			<property name="Extends" value="spawnTrader"/>
 			<property name="Shape" value="ModelEntity"/>			
-			<property name="Model" value="Entities/Decor/cobwebPrefab"/>	
+			<property name="Model" value="Entities/Quests/rally_pointPrefab"/>	
 			<drop event="Fall" count="0" prob="0"/>		
 			<property name="SpawnClass" value="GuardTurretStuner"/>			
 		</block>
@@ -1186,7 +1186,7 @@
 			<property name="Material" value="PetAnimalMaterials"/>
 			<property name="Extends" value="spawnTrader"/>
 			<property name="Shape" value="ModelEntity"/>			
-			<property name="Model" value="Entities/Decor/cobwebPrefab"/>	
+			<property name="Model" value="Entities/Quests/rally_pointPrefab"/>	
 			<drop event="Fall" count="0" prob="0"/>		
 			<property name="SpawnClass" value="TurretGuardSim"/>			
 		</block>
@@ -1227,7 +1227,7 @@
 			<property name="Material" value="PetAnimalMaterials"/>
 			<property name="Extends" value="spawnTrader"/>
 			<property name="Shape" value="ModelEntity"/>			
-			<property name="Model" value="Entities/Decor/cobwebPrefab"/>	
+			<property name="Model" value="Entities/Quests/rally_pointPrefab"/>	
 			<drop event="Fall" count="0" prob="0"/>		
 			<property name="SpawnClass" value="GuardTurretLizzy"/>			
 		</block>
@@ -1268,7 +1268,7 @@
 			<property name="Material" value="PetAnimalMaterials"/>
 			<property name="Extends" value="spawnTrader"/>
 			<property name="Shape" value="ModelEntity"/>			
-			<property name="Model" value="Entities/Decor/cobwebPrefab"/>	
+			<property name="Model" value="Entities/Quests/rally_pointPrefab"/>	
 			<drop event="Fall" count="0" prob="0"/>		
 			<property name="SpawnClass" value="GuardTurretDre"/>			
 		</block>
@@ -1309,7 +1309,7 @@
 			<property name="Material" value="PetAnimalMaterials"/>
 			<property name="Extends" value="spawnTrader"/>
 			<property name="Shape" value="ModelEntity"/>			
-			<property name="Model" value="Entities/Decor/cobwebPrefab"/>	
+			<property name="Model" value="Entities/Quests/rally_pointPrefab"/>	
 			<drop event="Fall" count="0" prob="0"/>		
 			<property name="SpawnClass" value="GuardTurretFox"/>			
 		</block>
@@ -1350,7 +1350,7 @@
 			<property name="Material" value="PetAnimalMaterials"/>
 			<property name="Extends" value="spawnTrader"/>
 			<property name="Shape" value="ModelEntity"/>			
-			<property name="Model" value="Entities/Decor/cobwebPrefab"/>	
+			<property name="Model" value="Entities/Quests/rally_pointPrefab"/>	
 			<drop event="Fall" count="0" prob="0"/>		
 			<property name="SpawnClass" value="GuardTurretBandit"/>			
 		</block>
@@ -1391,7 +1391,7 @@
 			<property name="Material" value="PetAnimalMaterials"/>
 			<property name="Extends" value="spawnTrader"/>
 			<property name="Shape" value="ModelEntity"/>			
-			<property name="Model" value="Entities/Decor/cobwebPrefab"/>	
+			<property name="Model" value="Entities/Quests/rally_pointPrefab"/>	
 			<drop event="Fall" count="0" prob="0"/>		
 			<property name="SpawnClass" value="GuardTurretBanditFoxy"/>			
 		</block>
@@ -1432,7 +1432,7 @@
 			<property name="Material" value="PetAnimalMaterials"/>
 			<property name="Extends" value="spawnTrader"/>
 			<property name="Shape" value="ModelEntity"/>			
-			<property name="Model" value="Entities/Decor/cobwebPrefab"/>	
+			<property name="Model" value="Entities/Quests/rally_pointPrefab"/>	
 			<drop event="Fall" count="0" prob="0"/>		
 			<property name="SpawnClass" value="TurretGuardLeader"/>			
 		</block>
@@ -1473,7 +1473,7 @@
 			<property name="Material" value="PetAnimalMaterials"/>
 			<property name="Extends" value="spawnTrader"/>
 			<property name="Shape" value="ModelEntity"/>			
-			<property name="Model" value="Entities/Decor/cobwebPrefab"/>	
+			<property name="Model" value="Entities/Quests/rally_pointPrefab"/>	
 			<drop event="Fall" count="0" prob="0"/>		
 			<property name="SpawnClass" value="TurretGuardCompoundBowMan"/>
 		</block>
@@ -1516,7 +1516,7 @@
 			<property name="Material" value="PetAnimalMaterials"/>
 			<property name="Extends" value="spawnTrader"/>
 			<property name="Shape" value="ModelEntity"/>			
-			<property name="Model" value="Entities/Decor/cobwebPrefab"/>	
+			<property name="Model" value="Entities/Quests/rally_pointPrefab"/>	
 			<drop event="Fall" count="0" prob="0"/>		
 			<property name="SpawnClass" value="TurretGuardDarkstardragon"/>
 		</block>
@@ -1557,7 +1557,7 @@
 			<property name="Material" value="PetAnimalMaterials"/>
 			<property name="Extends" value="spawnTrader"/>
 			<property name="Shape" value="ModelEntity"/>			
-			<property name="Model" value="Entities/Decor/cobwebPrefab"/>	
+			<property name="Model" value="Entities/Quests/rally_pointPrefab"/>	
 			<drop event="Fall" count="0" prob="0"/>		
 			<property name="SpawnClass" value="TurretGuardJoJo"/>
 		</block>
@@ -1598,7 +1598,7 @@
 			<property name="Material" value="PetAnimalMaterials"/>
 			<property name="Extends" value="spawnTrader"/>
 			<property name="Shape" value="ModelEntity"/>			
-			<property name="Model" value="Entities/Decor/cobwebPrefab"/>	
+			<property name="Model" value="Entities/Quests/rally_pointPrefab"/>	
 			<drop event="Fall" count="0" prob="0"/>		
 			<property name="SpawnClass" value="TurretGuardLezabel"/>
 		</block>
