@@ -62,7 +62,7 @@ RabbitCageTrap-Set,blocks,block,,,Rabbit Cage Trap Baited and Set,,,,,
 RabbitCageTrap-Sprung,blocks,block,,,Rabbit Cage Trap Sprung and Waiting,,,,,
 
 MushroomFruiting-Needs-MushroomMycelium,blocks,block,,,Mushroom Planter (Needs Mycelium Starter),,,,,
-MushroomPlanterDesc,items,,,,"Put on the ground, add Mycelium Starter, and wait."
+MushroomPlanterDesc,items,,,,"Put on the ground (Forest top soil, clay, desert, snow, wasteland/burnt forest), add Mycelium Starter, and wait. Do not place directly onto road, gravel, or player made blocks as it will be destroyed. You can add a ground surface inside your base as a substrate."
 MushroomPinhead-Needs-Time,blocks,block,,,Mushroom Planter Fruiting Stage,,,,,
 Mushroom-Harvest,blocks,block,,,Mushrooms Ready,,,,,
 
