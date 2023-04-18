@@ -1,0 +1,9 @@
+Oaks Pets - A20 Updates
+
+1. Bear references in entityclasses.xml from Mesh to Prefab property.
+2. Boar references in entityclasses.xml from Mesh to Prefab property.
+3. Chicken references in entityclasses.xml from Mesh to Prefab property.
+4. Loot.xml required additional name="" property for referencing.
+5. Switched Coop and Trap from Looting to Breaking to reflect A20 changes.
+6. Switched human guards from EntitySurvivor to EntityTrader class.
+7. Removed rotation exploit for placing pets and guards.

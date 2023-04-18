@@ -33,6 +33,7 @@
 		</entity_class>
 		
 		<entity_class name="GuardTemplate" extends="animalTemplateTimid">
+			<property name="HideInSpawnMenu" value="true"/>
 			<property name="Tags" value="entity,animal,Guardrabbit,perkAT03"/>
 			<property name="Class" value="EntityAnimalStag"/>
 			<property name="Parent" value="Animals"/>
